@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rnjerikrc
+- 👀 I’m interested in developing solutions fot companies to make work easier and more convinient.
+- ### I love web development
